@@ -1,1 +1,2 @@
+A movie ticketing booking app interface.
 https://www.figma.com/design/Fjh8zlXHFu95vKTX6A56GF/Project2?node-id=0-1&t=lJD4QDiIFIV5054v-1
